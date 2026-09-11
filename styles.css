@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+article p:nth-child(2) {
+    color: initial;
+}
